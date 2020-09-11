@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T11:09:13.423Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.9" etag="UWauARLkVbPC_a1VPBrZ" type="github"><diagram id="0njGj70ZVGsEx9qxfEH7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-11T11:28:21.252Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yH0iuhvcWnlFvLWRa8ai" version="13.6.9" type="github">
+  <diagram id="0njGj70ZVGsEx9qxfEH7" name="Page-1">
+    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="8.5" width="111.11" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00FFFF;" edge="1" parent="1" source="aUdwk5-sAyRmMtRIr68c-4" target="aUdwk5-sAyRmMtRIr68c-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-4" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="25.5" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-6" value="" style="html=1;outlineConnect=0;fillColor=#00FFFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="130" y="58.5" as="sourcePoint" />
+            <mxPoint x="250" y="38.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="28.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00FFFF;" edge="1" parent="1" source="aUdwk5-sAyRmMtRIr68c-7" target="aUdwk5-sAyRmMtRIr68c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="12" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00FFFF;" edge="1" parent="1" source="aUdwk5-sAyRmMtRIr68c-9" target="aUdwk5-sAyRmMtRIr68c-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-9" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aUdwk5-sAyRmMtRIr68c-11" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="173.32" width="52.6" height="66.68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
